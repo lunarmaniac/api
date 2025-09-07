@@ -10,3 +10,5 @@
 .idea
 .github
 .dockerignore
+Dockerfile
+fly.toml
