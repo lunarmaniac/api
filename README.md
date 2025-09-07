@@ -13,7 +13,7 @@ minimal api, right now simply serving coding tips to progress my knowledge of go
     "category": "Best Practices",
     "tip": "Use meaningful variable names."
   }
-````
+    ````
 
 ## categories
 
